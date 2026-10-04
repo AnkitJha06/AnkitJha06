@@ -1,6 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Ankit Jha</h1><br><br><p align="center"><br>  Machine Learning · Deep Learning · LLMs · AI Agents<br></p><br><br>Building ML models and LLMS<br><br>[Repositories](https://github.com/AnkitJha06?tab=repositories)<br>
-
+<h1 align="center">Ankit Jha</h1><br><br><p align="center"><br>  Machine Learning · Deep Learning · LLMs · AI Agents<br></p><br><br>Building ML models and LLMS<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitjha-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitjha.mum@gmail.com) 
