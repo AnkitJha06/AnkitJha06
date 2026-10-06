@@ -31,12 +31,6 @@ I build machine learning models, LLM apps, and AI agents. I like picking a probl
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitJha06&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitJha06&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
 ---
 
 <p align="center">
