@@ -26,9 +26,9 @@ I build machine learning models, LLM apps, and AI agents. I like picking a probl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AnkitJha06&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=AnkitJha06&theme=radical&hide_border=false" alt="Streak" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitJha06&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+  <img src="https://ghstats.dev/api/card?username=AnkitJha06&theme=forest&show_icons=true&show_ring=true&alltime=true" alt="GitHub stats" /><br/>
+  <img src="https://ghstats.dev/api/langs?username=AnkitJha06&theme=forest&layout=bar&max_langs=6" alt="Top languages" /><br/>
+  <img src="https://ghstats.dev/api/sparkline?username=AnkitJha06&days=30&width=420" alt="Last 30 days activity" />
 </p>
 
 ---
