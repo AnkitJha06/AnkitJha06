@@ -2,7 +2,7 @@
 <p align="center"><i>Machine Learning · Deep Learning · LLMs · AI Agents</i></p>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/visits?username=AnkitJha06&repo=AnkitJha06&style=flat" alt="Profile views" />
+  <img src="https://hits.sh/github.com/AnkitJha06.svg?style=flat&label=Profile%20Views&color=0e75b6" alt="Profile views" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AnkitJha06&query=$.public_repos&label=Repos&logo=github&style=flat" alt="Repo count" />
   <img src="https://img.shields.io/github/followers/AnkitJha06?style=flat&logo=github" alt="Followers" />
 </p>
