@@ -27,6 +27,7 @@ I build machine learning models, LLM apps, and AI agents. I like picking a probl
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=AnkitJha06&theme=forest&show_icons=true&show_ring=true&alltime=true" alt="GitHub stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=AnkitJha06&hide_current_streak=true&background=121217&border=C9C9C9&stroke=00000000&sideNums=A078F5&sideLabels=A078F5&dates=5CF0B0&hide_border=false" alt="Total contributions and longest streak" /><br/>
   <img src="https://ghstats.dev/api/langs?username=AnkitJha06&theme=forest&layout=bar&max_langs=6" alt="Top languages" /><br/>
   <img src="https://ghstats.dev/api/sparkline?username=AnkitJha06&days=30&width=420" alt="Last 30 days activity" />
 </p>
